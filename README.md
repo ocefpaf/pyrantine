@@ -57,3 +57,17 @@ Observe que acima do prompt de comando irá aparecer **(PYCOURSE)**, mostrando q
 Quem quiser ler mais sobre o ``conda`` e gerenciamento de ambientes recomendamos
 [essa lição do Software Carpentry](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/01-getting-started-with-conda/index.html)
 sobre o tópico.
+
+7. Digite
+
+```shell
+jupyter notebook
+```
+
+e aguarde o seu *browser* padrão abrir o jupyter. Clique na pasta `notebooks` e abra um de sua escolha para testar.
+
+Para maiores informações sobre notebooks leia
+
+https://realpython.com/jupyter-notebook-introduction/#creating-a-notebook
+
+(ignore a parte de instalação!)
