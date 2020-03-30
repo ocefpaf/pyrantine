@@ -1,0 +1,47 @@
+name: PYCOURSE
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - cartopy
+  - erddapy
+  - folium
+  - geopandas
+  - gsw
+  - ioos_qc
+  - jupyter
+  - matplotlib-base
+  - netcdf4
+  - numpy
+  - oceans
+  - palettable
+  - pandas
+  - scikit-learn
+  - scipy
+  - seaborn
+  - statsmodels
+  - utide
+  - windrose
+  - xarray
+  - xlrd
+  # R packages.
+  - rpy2
+  - r-base=3.6
+  - r-dt
+  - r-finch
+  - r-ggfortify
+  - r-ggplot2
+  - r-gsw
+  - r-httr
+  - r-irkernel
+  - r-lubridate
+  - r-mapdata
+  - r-ncdf4
+  - r-oce
+  - r-rcolorbrewer
+  - r-rerddap
+  - r-reshape2
+  - r-robis
+  - r-sp
+  - r-xtractomatic
+  - r-xts
