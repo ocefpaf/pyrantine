@@ -31,7 +31,12 @@
 4. Instale o ``git`` e faça o "clone" do repositório das aulas com
 
 ```shell
-conda install git
+conda install git --yes
+```
+
+agora que temos o `git` instalado podemos "clonar" as aulas localmente:
+
+```shell
 git clone https://github.com/ocefpaf/pyrantine.git
 ```
 
