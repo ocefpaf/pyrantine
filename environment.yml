@@ -4,11 +4,16 @@ channels:
 dependencies:
   - python=3.8
   - cartopy
+  - cdsapi
+  - ciso
   - erddapy
   - folium
   - geopandas
   - gsw
+  - holoviews
+  - hvplot
   - ioos_qc
+  - iris
   - jupyter
   - matplotlib-base
   - netcdf4
