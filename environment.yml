@@ -10,18 +10,21 @@ dependencies:
   - erddapy
   - folium
   - geopandas
+  - git
   - gsw
   - holoviews
   - hvplot
   - ioos_qc
   - iris
   - jupyter
+  - jupyter_contrib_nbextensions
   - matplotlib-base
   - netcdf4
   - numpy
   - oceans
   - palettable
   - pandas
+  - rise
   - scikit-learn
   - scipy
   - seaborn
