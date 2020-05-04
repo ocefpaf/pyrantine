@@ -1,7 +1,10 @@
 AVISO: alguns anti-vírus e Software de segurança de banco podem interferir na instalação.
-As vezes remover o Warsaw, Software do Banco do Brasil, resolve. As vezes uma verão mais antiga do miniconda pode funcionar. Para maiores informações cheque:
+As vezes remover o Warsaw, Software do Banco do Brasil, resolve.
+As vezes uma verão mais antiga do miniconda pode funcionar. Para maiores informações cheque:
 
- https://github.com/ContinuumIO/anaconda-issues/issues/6258
+https://github.com/ContinuumIO/anaconda-issues/issues/6258
+
+Tomem cuidado também com espaços e caractéres non-ASCII no seu path de instalação do Windows.
 
 ### a) clique no arquivo baixado `Miniconda3-latest-Windows-x86_64.exe` e clique em *Next*;
 
