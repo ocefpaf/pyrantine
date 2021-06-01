@@ -2,8 +2,9 @@ name: PYCOURSE
 channels:
   - conda-forge
 dependencies:
-  - python=3.8
+  - python=3.9
   - altair
+  - basemap
   - cartopy
   - cdsapi
   - ciso
@@ -22,9 +23,11 @@ dependencies:
   - jupyter
   - jupyter_contrib_nbextensions
   - matplotlib-base
+  - nc-time-axis
   - netcdf4
   - numpy
   - oceans
+  - openpyxl
   - palettable
   - pandas
   - proplot
@@ -36,11 +39,10 @@ dependencies:
   - utide
   - windrose
   - xarray
-  - xlrd
   - zarr
   # R packages.
   - rpy2
-  - r-base=3.6
+  - r-base=4
   - r-dt
   - r-finch
   - r-ggfortify
