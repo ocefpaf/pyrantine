@@ -1,10 +1,10 @@
 # Aulas de Python durante a quarentena
 
-| Platform | Status                                                                                                                                                          |
-| --------------- | ----------------------------------------------------------------------------------- |
-| Linux    | ![Tests](https://github.com/ocefpaf/pyrantine/actions/workflows/linux-tests.yml/badge.svg) |
-| macOS    | ![Tests](https://github.com/ocefpaf/pyrantine/actions/workflows/osx-tests.yml/badge.svg)   |
-| Windows  | ![Tests](https://github.com/ocefpaf/pyrantine/actions/workflows/win-tests.yml/badge.svg)   |
+| Status                                                                                      |
+| ------------------------------------------------------------------------------------------- |
+| ![Tests](https://github.com/ocefpaf/pyrantine/actions/workflows/linux-tests.yml/badge.svg)  |
+| ![Tests](https://github.com/ocefpaf/pyrantine/actions/workflows/osx-tests.yml/badge.svg)    |
+| ![Tests](https://github.com/ocefpaf/pyrantine/actions/workflows/win-tests.yml/badge.svg)    |
 
 ## Binder
 
