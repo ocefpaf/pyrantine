@@ -1,4 +1,4 @@
-name: tests
+name: Windows
 
 on:
   pull_request:
@@ -7,10 +7,7 @@ on:
 
 jobs:
   run:
-    runs-on: ${{ matrix.os }}
-    strategy:
-      matrix:
-        os: [windows-latest, ubuntu-latest, macos-latest]
+    runs-on: windows-latest
 
     steps:
     - uses: actions/checkout@v2
