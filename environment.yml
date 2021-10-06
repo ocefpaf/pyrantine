@@ -35,6 +35,8 @@ dependencies:
   - scikit-learn
   - scipy
   - seaborn
+  - shapely
+  - simplekml
   - statsmodels
   - utide
   - windrose
